@@ -1,27 +1,28 @@
+/*General Website Style rules */
 body {
 
     background-color: rgb(103, 196, 196);
-}
-
-.front {
-
-    text-align: center;
-}
-
-.title {
-
-    font-weight: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+}
+
+.homepage-title {
+
+    font-weight: 600px;
     text-align: center;
   
 }
 
-.picture {
+.main-picture {
 
-    width: 800px;
+    width: 450px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+.recipe-title {
+
+    text-align: center;
+}
